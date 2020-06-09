@@ -1,0 +1,133 @@
+import std.h
+import con.h
+
+func main()
+{
+  ||dddd
+
+
+    int var :
+    var = 4:
+    var = 2*var+6:
+    print(var):
+
+    
+    int a :
+    a = 4:
+    s=0:
+    float a:
+    if(a==1)
+    {
+        print(a):
+    }
+    elif(a==2)
+    {
+        print(a):
+    }
+    elif(a==3)
+    {
+        print(a):
+    }
+    elif(a==4)
+    {
+        print(a):
+    }
+    else
+    {
+        print(a):
+    }
+    
+    
+    int x,inc:
+    x = 10+15:
+    print(x):
+    x = x + x:
+    print(x):
+    power(56,2):
+    int a1,b1,zzz,xxx:
+    switch(x)
+    {
+        case 1 ~
+        a1=1 :
+        case 2 ~
+        b1=2:
+        default ~
+        xxx=3:
+    }
+    a1=1000:
+    b1=10:
+    print(b1):
+    for (a1=1: b1=10: inc=1:)
+    {
+        print(x):
+    }
+
+        
+    char f3:
+    f3 = 67:
+    a1 = 0:
+    b1 = 0:
+    a1 = a1 + 1:
+    zzz = 1:
+    xxx = 1:
+    power(23,2):
+    if ( a1 != b1 )
+    { 
+        if(a1>b1)
+        {
+           print(a1): 
+        }
+        else
+        {
+            print(b1):
+        }
+    }
+    elif (a1==b1)
+    {
+        a1=6:
+        print(a1):
+    }  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------

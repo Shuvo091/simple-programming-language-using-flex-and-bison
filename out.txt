@@ -1,0 +1,103 @@
+Header file found
+Header file found
+single line cmnt found
+variable type: integer  Valid Declaration
+variable name: var  Assign in var: var value 4 
+Assign in var: var value 14 
+
+print: var value: 14
+variable type: integer  Valid Declaration
+variable name: a  Assign in a: var value 4 
+Variable is not declared
+variable type: float  
+variable is already declared
+
+print: a value: 4
+
+print: a value: 4
+
+print: a value: 4
+
+print: a value: 4
+ELIF condition found
+elif condition is TRUE
+ELIF condition found
+elif condition is false
+ELIF condition found
+elif condition is false
+
+print: a value: 4
+
+else condition is found
+IF condition found
+if condition is FALSE
+variable type: integer  Valid Declaration
+variable name: x  Valid Declaration
+variable name: inc  Assign in x: var value 25 
+
+print: x value: 25
+Assign in x: var value 50 
+
+print: x value: 50
+power func value: 3135
+variable type: integer  Valid Declaration
+variable name: a1  Valid Declaration
+variable name: b1  Valid Declaration
+variable name: zzz  Valid Declaration
+variable name: xxx  Assign in a1: var value 1 
+Assign in b1: var value 2 
+Assign in xxx: var value 3 
+Switch case found
+Assign in a1: var value 1000 
+Assign in b1: var value 10 
+
+print: b1 value: 10
+Assign in a1: var value 1 
+Assign in b1: var value 10 
+Assign in inc: var value 1 
+
+print: x value: 50
+loop running: 50
+loop running: 50
+loop running: 50
+loop running: 50
+loop running: 50
+loop running: 50
+loop running: 50
+loop running: 50
+variable type: char  Valid Declaration
+variable name: f3  Assign in f3: var value C
+Assign in a1: var value 0 
+Assign in b1: var value 0 
+Assign in a1: var value 1 
+Assign in zzz: var value 1 
+Assign in xxx: var value 1 
+power func value: 528
+
+print: a1 value: 1
+
+print: b1 value: 0
+
+else condition is found
+IF condition found
+if condition is TRUE
+Assign in a1: var value 6 
+
+print: a1 value: 6
+ELIF condition found
+elif condition is false
+IF condition found
+if condition is TRUE
+
+ Valid code
+
+number of variables = 9
+var  : type --> integer   value --> 14
+a  : type --> integer   value --> 4
+x  : type --> integer   value --> 50
+inc  : type --> integer   value --> 1
+a1  : type --> integer   value --> 6
+b1  : type --> integer   value --> 0
+zzz  : type --> integer   value --> 1
+xxx  : type --> integer   value --> 1
+f3  : type --> char   value --> C
