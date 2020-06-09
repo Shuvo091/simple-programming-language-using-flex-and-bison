@@ -6,12 +6,17 @@ This is a project that I have done in my 3rd year as a CSE student. A simplistic
 
 
 Step 1: I think a demo program is able to express the structire of my language. Think of it as an unpolished version of 'C' with different syntax.
+
 Structure of my language:
+
 import std.h
+
 import con.h
 
 func main()
+
 {
+
   ||this is a single line comment
 
 
@@ -37,7 +42,6 @@ func main()
     {
         print(a):
     }
-    
     
     int x,inc:
     x = 10+15:
