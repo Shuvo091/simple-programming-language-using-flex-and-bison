@@ -9,13 +9,12 @@ Step 1: I think a demo program is able to express the structire of my language. 
 
 Structure of my language:
 
-import std.h
-import con.h
-func main()
-{
-  ||this is a single line comment
-
-
+     import std.h
+     import con.h
+     func main()
+    {
+    ||this is a single line comment
+    
     int var :         || this is a declartion
     var = 4:
     var = 2*var+6:
@@ -71,11 +70,17 @@ func main()
 step 2: How to run:
 
 i) clone this repository on your computer.
+
 ii) unzip the file in your preferred directory.
+
 iii) open cmd on that directory.
+
 iv) type the following on cmd-
+
     flex id.l
     bison -dy id.y
     gcc lex.yy.c id.tab.c id.exe
+    
 v) open out.txt to see the output
+
 vi) open input.txt to edit your input text for further uses.
