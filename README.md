@@ -22,7 +22,7 @@ func main()
     print(var):
 
     
-   int a :
+    int a:
     a = 4:
     s=0:
     float a:
