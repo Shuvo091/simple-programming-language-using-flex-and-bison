@@ -10,13 +10,9 @@ Step 1: I think a demo program is able to express the structire of my language. 
 Structure of my language:
 
 import std.h
-
 import con.h
-
 func main()
-
 {
-
   ||this is a single line comment
 
 
